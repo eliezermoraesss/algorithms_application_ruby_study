@@ -2,7 +2,8 @@ def add(number1,number2)
     number1 + number2
 end
 
-def sub
+def sub()
+end
 
 print "Digite o primeiro número: "
 number1 = gets.chomp.to_i
@@ -13,4 +14,4 @@ operation = gets.chomp
 print "Digite o segundo número: "
 number2 = gets.chomp.to_i
 
-puts "O resultado da "
+puts "O resultado da"
