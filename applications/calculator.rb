@@ -50,7 +50,7 @@ loop do
                 div(number1, number2)
             end
         end
-        puts "O resultado é #{result}\n"
+        puts "O resultado é #{result.round(2)}\n"
     else
         puts "Opção inválida"
     end
