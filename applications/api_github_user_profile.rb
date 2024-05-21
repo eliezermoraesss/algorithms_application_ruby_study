@@ -1,7 +1,7 @@
 require 'octokit'
 
 # Configure o client do Octokit com seu token de acesso
-client = Octokit::Client.new(access_token: ENV[GITHUB_ACCESS_TOKEN])
+client = Octokit::Client.new(access_token: ENV['GITHUB_ACCESS_TOKEN'])
 
 # Consulta a API do GitHub para obter informações do usuário
 def buscar_perfil(username, client)
@@ -26,4 +26,3 @@ end
 
 # Exemplo de uso
 buscar_perfil('eliezermoraesss', client)
-
