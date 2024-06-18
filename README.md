@@ -39,6 +39,7 @@ Neste repositório, você encontrará uma variedade de projetos práticos que de
 
 - [Projeto 1](link): Descrição breve do projeto e link para o código.
 - [Projeto 2](link): Descrição breve do projeto e link para o código.
+- [Projeto 3](link): Descrição breve do projeto e link para o código.
 
 ## Recursos Adicionais
 
